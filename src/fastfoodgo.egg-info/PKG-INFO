@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: fastfoodgo
+Version: 0.1.0
+Summary: Projet FastFoodGo - TD DevOps
+Author: Ton Nom
+Requires-Python: >=3.10
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
+Requires-Dist: pytest-django; extra == "dev"
