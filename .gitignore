@@ -1,0 +1,5 @@
+./venv/
+./src/__pycache__/
+./src/fastfoodgo/__pycache__/ 
+./src/db.sqlite3  
+./.pytest_cache/
